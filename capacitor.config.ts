@@ -1,8 +1,8 @@
 import { CapacitorConfig } from '@capacitor/cli';
 
 const config: CapacitorConfig = {
-  appId: 'io.ionic.starter',
-  appName: 'imprimir-tickets-app',
+  appId: 'co.universal.imprimir',
+  appName: 'PrinTicket',
   webDir: 'www',
   bundledWebRuntime: false
 };
